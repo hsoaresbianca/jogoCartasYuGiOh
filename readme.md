@@ -1,8 +1,8 @@
 # Yu-Gi-Oh | Jo-ken-po Edition
 
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
+Jogo de jokenpo criado pelo [Felipão](https://github.com/felipeAguiarCode) para explicar conceitos de lógica de programação aplicados a jogos.
 
-conceitos abordados:
+Conceitos abordados neste projeto:
 
 - Armazenamento e gerenciamento de estado manual
 - Funções limpas
